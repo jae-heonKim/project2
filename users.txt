@@ -1,0 +1,6 @@
+qwer1234//qwerqwer//김재헌//1
+user1//qwerty//홍길동//0
+admin1//asdf1234//김민철//1
+mypass//word1234//이민지//0
+user2//abcd//김철수//0
+user3//12341234//김영희//0
