@@ -42,6 +42,7 @@ int main()
 	printf("Input server port : ");
 	gets(port);
 
+
 	if (WSAStartup(MAKEWORD(2, 2), &wsaData) != 0) // 윈도우 소켓을 사용한다고 운영체제에 알림
 		ErrorHandling("WSAStartup() error!");
 

@@ -1,10 +1,5 @@
 // 출처: http://remocon33.tistory.com/465
 
-// 공용 캘린더 관리 프로그램
-// 개발날짜 : 2025.05.22 ~ 2025.06.18
-// 개발자 : 김재헌
-// git주소 : https://github.com/jae-heonKim/project2
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -41,6 +36,7 @@ int main()
 
 	printf("Input server port : ");
 	gets(port);
+
 
 	if (WSAStartup(MAKEWORD(2, 2), &wsaData) != 0) // 윈도우 소켓을 사용한다고 운영체제에 알림
 		ErrorHandling("WSAStartup() error!");

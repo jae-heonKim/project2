@@ -3,7 +3,7 @@
 // 공용 캘린더 관리 프로그램
 // 개발날짜 : 2025.05.22 ~ 2025.06.18
 // 개발자 : 김재헌
-// git주소 : https://github.com/jae-heonKim/project2
+// git주소 : https://github.com/jae-heonKim/Cadv_12_kim
 
 #include <stdio.h>
 #include <stdlib.h>
